@@ -1,4 +1,4 @@
-# Android Things Workshop
+# Android Things Workshop - LED 
 
 Source of our Workshop given at DevFest Berlin 2017.
 
